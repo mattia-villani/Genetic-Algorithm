@@ -4,7 +4,6 @@
  * Github: https://github.com/mattia-villani
  */
 #include "genetic.h"
-#include "genetic.c"
 #include<stdio.h>
 #include<math.h>
 #include<time.h>
